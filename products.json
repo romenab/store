@@ -1,0 +1,20 @@
+{
+  "products" : [
+    {
+      "name": "Milk",
+      "price": 129
+    },
+    {
+      "name": "Bread",
+      "price": 120
+    },
+    {
+      "name": "Cheese",
+      "price": 300
+    },
+    {
+      "name": "Cookies",
+      "price": 299
+    }
+  ]
+}
